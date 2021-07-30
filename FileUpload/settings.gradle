@@ -1,0 +1,4 @@
+include ':invoid'
+include ':fileupload'
+include ':app'
+rootProject.name = "FileUpload"
